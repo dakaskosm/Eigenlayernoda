@@ -1,7 +1,7 @@
 {
-  "name": "Имя ноды",
+  "name": "eiden",
   "website": "www.example.com",
   "description": "I operate on some data",
-  "https://ibb.co.com/Xz63xz2": "logo.png",
+  "logo": "https://ibb.co.com/Xz63xz2",
   "twitter": "https://x.com/example"
 }
